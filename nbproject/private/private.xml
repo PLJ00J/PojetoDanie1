@@ -3,8 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/menu.java</file>
-            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/menu2.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/view/menu1.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/view/menu.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/model/Cliente.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/view/MenuProdutos.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/jdbc/ConnectionFactory.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/view/MenuCadastro.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/walla/Documents/NetBeansProjects/projetopetshop/src/br/com/projeto/view/menu2.java</file>
         </group>
     </open-files>
 </project-private>
